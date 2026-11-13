@@ -6,3 +6,5 @@ This repository contains my Lab 3 work for CSE103.
 - main.py
 - README.md
 - .gitignore
+## Author
+Sambhav Chauhan
